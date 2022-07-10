@@ -1,0 +1,30 @@
+.background{
+    background-color: orange;
+    text-align: center; 
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+
+.header{
+    width: 100%;
+    background: lightpink;
+    height: 10vh;
+}
+
+.cabecalho{
+    text-align: center;
+    font-weight: bold;
+    color: white;
+}
+
+.cartaoCadastro{
+    align-self: center;
+    border: 1px solid lightgreen;
+    background-color: white;
+    border-radius: 5px;
+    padding: 5vh;
+    color: purple;
+    font-weight: bold;
+    width: fit-content;
+}
